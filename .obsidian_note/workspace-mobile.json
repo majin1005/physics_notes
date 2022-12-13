@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "a30089625e07e3e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdd1571ed4d5bac8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beebc147e06a03e1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0afd8875d4699ec4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "optics/3.lenses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "385229d2e6dd11b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c13d16a78c3ac95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "optics/2.refraction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "438a20efbb7b8470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "optics/1.reflection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5312859a88db61f8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0737b7950c100ddb",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a737146e4f79dd21",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a3641768f5cff77d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "0dbcd3618cf1ae30",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7b0a9b1b03a370de",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "aacfac582d943c03",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "optics/1.reflection.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fae6a97742e49a54",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "optics/1.reflection.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1a92c7f542dced7a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "optics/1.reflection.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "438a20efbb7b8470",
+  "lastOpenFiles": [
+    "optics/3.lenses.md",
+    "optics/1.reflection.md",
+    "README.md",
+    "optics/2.refraction.md"
+  ]
+}
